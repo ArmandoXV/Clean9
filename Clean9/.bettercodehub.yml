@@ -1,0 +1,2 @@
+exclude:
+- .*/src\Clean9.Web\wwwroot\lib\**\*

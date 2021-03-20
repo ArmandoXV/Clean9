@@ -1,0 +1,17 @@
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Infrastructure.deps.json
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Infrastructure.runtimeconfig.json
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Infrastructure.runtimeconfig.dev.json
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Infrastructure.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Infrastructure.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Core.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.SharedKernel.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.Core.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\bin\Debug\netcoreapp3.1\Clean9.SharedKernel.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.AssemblyInfo.cs
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.csproj.CopyComplete
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Infrastructure\obj\Debug\netcoreapp3.1\Clean9.Infrastructure.genruntimeconfig.cache

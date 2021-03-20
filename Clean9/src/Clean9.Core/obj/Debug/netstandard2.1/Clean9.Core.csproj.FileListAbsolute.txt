@@ -1,0 +1,12 @@
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\bin\Debug\netstandard2.1\Clean9.Core.deps.json
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\bin\Debug\netstandard2.1\Clean9.Core.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\bin\Debug\netstandard2.1\Clean9.Core.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\bin\Debug\netstandard2.1\Clean9.SharedKernel.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\bin\Debug\netstandard2.1\Clean9.SharedKernel.pdb
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.csprojAssemblyReference.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.AssemblyInfoInputs.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.AssemblyInfo.cs
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.csproj.CopyComplete
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.dll
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Core\obj\Debug\netstandard2.1\Clean9.Core.pdb
