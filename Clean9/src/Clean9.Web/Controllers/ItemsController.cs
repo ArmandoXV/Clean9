@@ -7,11 +7,15 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Clean9.Core.Entities;
 using Clean9.Infrastructure.Data;
+using Microsoft.AspNetCore.Authorization;
+using System.Net.Http;
 
 namespace Clean9.Web.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class ItemsController : Controller
     {
+        static readonly HttpClient client = new HttpClient();
         private readonly AppDbContext _context;
 
         public ItemsController(AppDbContext context)

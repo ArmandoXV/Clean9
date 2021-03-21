@@ -21,7 +21,8 @@ namespace Clean9.Web.Areas.Identity
                         context.Configuration.GetConnectionString("SQLServerConnection")));
 
                 services.AddDefaultIdentity<Clean9WebUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                    .AddEntityFrameworkStores<Clean9WebContext>();
+                        .AddRoles<IdentityRole>()
+                        .AddEntityFrameworkStores<Clean9WebContext>();
             });
         }
     }
