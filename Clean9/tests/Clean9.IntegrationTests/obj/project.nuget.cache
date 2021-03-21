@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "baGD+8iBSnk4T3ql6258ocgNq24YYfgX1PE6z/D4xDJIzc6RedeTQiW0JzZRyv3Hrr7Wnx2/PBOqKK7Ks2QVPQ==",
+  "dgSpecHash": "x3Ahej02+L5SMOg42vFknBqUnFhZFYhuaWV7WMqttAXy46RyynRJfP45763yzxOoGJh95NSt3ZyDteNa4YyAxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mhammd\\source\\repos\\Clean9\\Clean9\\tests\\Clean9.IntegrationTests\\Clean9.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Mhammd\\.nuget\\packages\\coverlet.collector\\1.2.1\\coverlet.collector.1.2.1.nupkg.sha512",
     "C:\\Users\\Mhammd\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
     "C:\\Users\\Mhammd\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
+    "C:\\Users\\Mhammd\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Mhammd\\.nuget\\packages\\microsoft.aspnetcore\\1.1.0\\microsoft.aspnetcore.1.1.0.nupkg.sha512",
     "C:\\Users\\Mhammd\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Mhammd\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -9,13 +9,16 @@ using Clean9.Core.Entities;
 using Clean9.Infrastructure.Data;
 using Microsoft.AspNetCore.Authorization;
 using System.Net.Http;
+using System.Net.Http.Headers;
+using Clean9.Web.ApiModels;
+using Newtonsoft.Json;
 
 namespace Clean9.Web.Controllers
 {
     [Authorize(Roles = "Admin")]
     public class ItemsController : Controller
     {
-        static readonly HttpClient client = new HttpClient();
+        static HttpClient client = new HttpClient();
         private readonly AppDbContext _context;
 
         public ItemsController(AppDbContext context)
@@ -26,8 +29,25 @@ namespace Clean9.Web.Controllers
         // GET: Items
         public async Task<IActionResult> Index()
         {
+            // Update port # in the following line.
+            //client.BaseAddress = new Uri("https://localhost:44304/SupplierApi/GetProducts");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+
+            //List<Product> products = null;
+            var customerJsonString = new string("");
+            HttpResponseMessage response = await client.GetAsync("https://localhost:44304/SupplierApi/GetProducts");
+            if (response.IsSuccessStatusCode)
+            {
+                // Get the response
+                customerJsonString = await response.Content.ReadAsStringAsync();
+                                
+            }
+            IEnumerable<Product> deserialized = JsonConvert.DeserializeObject<IEnumerable<Product>>(custome‌​rJsonString);
+
             var appDbContext = _context.Items.Include(i => i.Brand).Include(i => i.Type);
-            return View(await appDbContext.ToListAsync());
+            return View(deserialized);
         }
 
         // GET: Items/Details/5

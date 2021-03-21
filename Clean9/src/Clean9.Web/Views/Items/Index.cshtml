@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Clean9.Core.Entities.Item>
+﻿@model IEnumerable<Clean9.Web.ApiModels.Product>
 
 @{
     ViewData["Title"] = "Index";
@@ -22,13 +22,7 @@
                 @Html.DisplayNameFor(model => model.Price)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Quantity)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PictureUri)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Type)
+                The Requsted Quantity
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Brand)
@@ -49,21 +43,10 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Quantity)
+                @Html.DisplayFor(modelItem => item.Brand)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.PictureUri)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Type.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Brand.Id)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item">Purchase</a>
             </td>
         </tr>
 }

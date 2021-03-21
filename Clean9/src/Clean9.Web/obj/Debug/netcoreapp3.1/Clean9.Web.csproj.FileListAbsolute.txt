@@ -244,3 +244,4 @@ C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Web\obj\Debug\netcoreapp3.
 C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Web\obj\Debug\netcoreapp3.1\Razor\Views\Types\Details.cshtml.g.cs
 C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Web\obj\Debug\netcoreapp3.1\Razor\Views\Types\Edit.cshtml.g.cs
 C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Web\obj\Debug\netcoreapp3.1\Razor\Views\Types\Index.cshtml.g.cs
+C:\Users\Mhammd\source\repos\Clean9\Clean9\src\Clean9.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
